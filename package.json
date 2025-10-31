@@ -1,0 +1,8 @@
+{
+  "name": "investment-advisor-website",
+  "version": "1.0.0",
+  "description": "Professional website for an investment advisor.",
+  "dependencies": {
+    "google-spreadsheet": "^3.3.0"
+  }
+}
