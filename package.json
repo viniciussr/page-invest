@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Professional website for an investment advisor.",
   "dependencies": {
-    "google-spreadsheet": "^3.3.0"
+    "google-spreadsheet": "^4.1.2",
+    "google-auth-library": "^9.11.0"
   }
 }
